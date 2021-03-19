@@ -8,4 +8,4 @@
 ## Disclaimer
 This project was carried  out for educational purpose only.
 
-#### The power point summarises chapter 1 to 5 of the porject.
+#### Note: The power point summarises chapter 1 to 5 of the porject.
