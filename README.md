@@ -1,3 +1,4 @@
 # Sentiment-analysis-of-opay-app
-![Screenshot](pic__1.png)
-![Screenshot](pic__2.png)
+
+<img src="https://cdn.rawgit.com/seyirex/Sentiment-analysis-of-opay-app/master/Screenshot/pic__1.png" />
+<img src="https://cdn.rawgit.com/seyirex/Sentiment-analysis-of-opay-app/master/Screenshot/pic__2.png" />
